@@ -4,4 +4,4 @@
 
 Visit the following resources to learn more:
 
-- [@official@Auto Scaling Groups](https://docs.aws.amazon.com/eks/latest/best-practices/cas.html)
+- [@official@Auto Scaling Groups](https://docs.aws.amazon.com/autoscaling/ec2/userguide/auto-scaling-groups.html)
